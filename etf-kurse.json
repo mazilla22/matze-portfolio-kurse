@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T09:50:11.665780Z",
+  "updatedAt": "2026-10-19T10:29:20.790456Z",
   "quotes": {
     "IE00B6R52259": {
       "isin": "IE00B6R52259",
       "symbol": "IUSQ.DE",
       "currency": "EUR",
-      "price": 109.24,
-      "marketTime": "2026-10-19T09:34:36Z",
+      "price": 109.32,
+      "marketTime": "2026-10-19T10:12:02Z",
       "source": "Yahoo Finance chart endpoint"
     },
     "IE00BF4RFH31": {
       "isin": "IE00BF4RFH31",
       "symbol": "IUSN.DE",
       "currency": "EUR",
-      "price": 9.0,
-      "marketTime": "2026-10-19T09:33:43Z",
+      "price": 9.007,
+      "marketTime": "2026-10-19T10:12:45Z",
       "source": "Yahoo Finance chart endpoint"
     }
   }
